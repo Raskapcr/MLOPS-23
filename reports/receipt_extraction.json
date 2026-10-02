@@ -1,0 +1,18 @@
+{
+  "item": [
+    {
+      "nama": "SOUP OF THE DAY",
+      "harga": 0,
+      "qty": 1
+    },
+    {
+      "nama": "CHICKEN STROGANOFF",
+      "harga": 25.98,
+      "qty": 2
+    }
+  ],
+  "merchant": "KP1: KITCHEN 1",
+  "tanggal": "MONDAY 13 NOVEMBER 2017",
+  "total": 51.96,
+  "subtotal": 51.96
+}
